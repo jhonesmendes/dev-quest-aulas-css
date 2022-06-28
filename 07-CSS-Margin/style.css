@@ -1,0 +1,15 @@
+
+h1 {
+    border: solid 20px;
+    border-color: darkgreen blueviolet yellowgreen aqua  20px;
+}
+
+
+
+p {
+    margin: 30px;
+    padding: 25px;
+    background-color: antiquewhite;
+    border:20px  solid  rgb(218, 192, 192);
+}
+
